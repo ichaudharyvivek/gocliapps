@@ -1,6 +1,5 @@
 # 🛠️ GoTask CLI
-
-> Task Manager CLI in Go
+Task Manager CLI in Go
 
 ## Objective
 
